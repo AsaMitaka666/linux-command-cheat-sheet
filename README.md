@@ -1,5 +1,10 @@
 # 🐧 Linux Command Cheat Sheet
 
+![Linux](https://img.shields.io/badge/Linux-Command%20Cheat%20Sheet-black)
+![Version](https://img.shields.io/badge/version-v1.0-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Markdown](https://img.shields.io/badge/docs-Markdown-orange)
+
 A practical Linux command reference guide for beginners, system administrators, and cybersecurity learners.
 
 This project contains organized Linux commands with explanations, syntax, and examples.
