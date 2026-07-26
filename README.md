@@ -1,79 +1,113 @@
 # 🐧 Linux Command Cheat Sheet
 
-A beginner-friendly Linux command reference with practical examples.
+A practical Linux command reference guide for beginners, system administrators, and cybersecurity learners.
 
-A collection of essential Linux commands, explanations, and real-world usage examples for developers, system administrators, and cybersecurity learners.
-
----
-
-## 📖 About This Project
-
-Linux Command Cheat Sheet is an open-source reference guide designed to help users learn and remember Linux terminal commands.
-
-This project focuses on:
-
-- Understanding Linux CLI
-- Learning essential commands
-- Improving terminal productivity
-- Building confidence with the Linux shell
-
-The goal is to create a simple but powerful command reference for everyone from beginners to advanced users.
+This project contains organized Linux commands with explanations, syntax, and examples.
 
 ---
 
-## 🎯 Who Is This For?
+## 📚 Contents
 
-This project is for:
-
-- 🐧 Linux beginners
-- 👨‍💻 Developers
-- 🔐 Cybersecurity students
-- ⚙️ System administrators
-- 🖥️ Terminal enthusiasts
+- [Basics](#basics)
+- [System Administration](#system-administration)
+- [Networking](#networking)
+- [Security](#security)
+- [Quick Reference](#quick-reference)
 
 ---
 
-# 📚 Contents
+# 📂 Project Structure
+
+```
+linux-command-cheat-sheet/
+
+├── basics/
+│   ├── navigation.md
+│   ├── files.md
+│   └── directories.md
+│
+├── system/
+│   ├── processes.md
+│   ├── users.md
+│   └── permissions.md
+│
+├── networking/
+│   ├── network.md
+│   ├── ssh.md
+│   └── curl.md
+│
+├── security/
+│   ├── firewall.md
+│   └── hardening.md
+│
+└── cheatsheets/
+    └── quick-reference.md
+```
+
+---
+
+# 📖 Topics Covered
 
 ## Basics
 
-- [Navigation Commands](basics/navigation.md)
-- [File Management](basics/files.md)
-- [Directory Management](basics/directories.md)
+- File navigation
+- File management
+- Directory operations
 
-## System Management
+## System Administration
 
-- Processes
-- Users
-- Permissions
+- Process management
+- User management
+- File permissions
 - Services
 
 ## Networking
 
-- Network Commands
+- Network troubleshooting
 - SSH
 - Curl
-- Wget
+- DNS tools
 
 ## Security
 
-- File Permissions
-- Firewall Basics
-- Security Commands
-
-## Productivity
-
-- Terminal Tips
-- Aliases
-- Shell Customization
+- Firewall management
+- Linux hardening
+- Basic security practices
 
 ---
 
-# 🖥️ Example
+# 🎯 Goals
 
-### List files
+This project aims to:
 
-Command:
+- Learn Linux deeply
+- Build a personal command reference
+- Help beginners learn Linux
+- Document Linux administration knowledge
 
-```bash
-ls -la
+---
+
+# 🚀 Roadmap
+
+Future improvements:
+
+- Add more advanced commands
+- Add Bash scripting examples
+- Add Docker commands
+- Add system monitoring tools
+- Add cybersecurity tools
+
+---
+
+# 👨‍💻 Author
+
+**Asa Mitaka**
+
+GitHub:
+https://github.com/AsaMitaka666
+
+---
+
+# 📜 License
+
+This project is licensed under the MIT License.
