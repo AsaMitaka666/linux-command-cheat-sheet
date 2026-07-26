@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+
   pull_request:
     branches:
       - main
@@ -25,4 +26,4 @@ jobs:
         run: npm install -g markdownlint-cli
 
       - name: Check Markdown files
-  run: markdownlint "**/*.md" || true
+        run: markdownlint "**/*.md" || true
