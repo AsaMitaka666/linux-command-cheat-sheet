@@ -109,7 +109,7 @@ Future improvements:
 **Asa Mitaka**
 
 GitHub:
-https://github.com/AsaMitaka666
+https://github.com/AsaEdgerunner
 
 ---
 
